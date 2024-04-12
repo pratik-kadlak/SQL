@@ -1,0 +1,1 @@
+SELECT * FROM cats; -- to verify what we inserted is there in the table
