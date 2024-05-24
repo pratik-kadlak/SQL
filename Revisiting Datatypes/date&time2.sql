@@ -1,0 +1,5 @@
+USE data_types;
+
+-- DATE: YYYY-MM-DD
+-- TIME: HH-MM-SS
+-- DATETIME: YYYY-MM-DD HH-MM-SS
