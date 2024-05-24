@@ -30,6 +30,7 @@ sql-learning/
 ├── String Functions/
 ├── Refining Selections/
 ├── Aggregate Functions/
+├── Revisting Datatypes/
 └── README.md
 ```
 
