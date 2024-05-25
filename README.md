@@ -31,6 +31,7 @@ sql-learning/
 ├── Refining Selections/
 ├── Aggregate Functions/
 ├── Revisting Datatypes/
+├── Comparison & Logical Operators/
 └── README.md
 ```
 
