@@ -32,6 +32,7 @@ sql-learning/
 ├── Aggregate Functions/
 ├── Revisting Datatypes/
 ├── Comparison & Logical Operators/
+├── Constraints & Alter Table/
 └── README.md
 ```
 
