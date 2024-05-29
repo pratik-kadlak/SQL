@@ -34,6 +34,7 @@ sql-learning/
 ├── Comparison & Logical Operators/
 ├── Constraints & Alter Table/
 ├── One To Many & Joins/
+├── Many To Many/
 └── README.md
 ```
 
