@@ -33,6 +33,7 @@ sql-learning/
 ├── Revisting Datatypes/
 ├── Comparison & Logical Operators/
 ├── Constraints & Alter Table/
+├── One To Many & Joins/
 └── README.md
 ```
 

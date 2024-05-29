@@ -9,3 +9,8 @@ SELECT * FROM offices;
 ALTER TABLE offices RENAME TO companies;
 SELECT * FROM offices; -- doesn't exist
 SELECT * FROM companies; 
+
+
+-- renaming column names
+ALTER TABLE companies RENAME COLUMN name TO company_name;
+SELECT * FROM companies;
