@@ -36,6 +36,7 @@ sql-learning/
 ├── One To Many & Joins/
 ├── Many To Many/
 ├── Views & Rollups!/
+├── Instagram Clone/
 └── README.md
 ```
 
