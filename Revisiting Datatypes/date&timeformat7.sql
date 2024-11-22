@@ -10,5 +10,5 @@ SELECT birthdate, DATE_FORMAT(birthdate, '%b') FROM people; -- '%b' abbrevates t
 SELECT birthdate, DATE_FORMAT(birthdate, '%a %b') FROM people;
 SELECT birthdate, DATE_FORMAT(birthdate, '%a %b %D') FROM people;
 
-SELECT birthtime, TIME_FORMAT(birthtime, '%H:%m') FROM people;
-SELECT birthtime, TIME_FORMAT(birthtime, 'Born On -> %H:%m') FROM people;
+SELECT birthtime, TIME_FORMAT(birthtime, '%H:%i') FROM people;
+SELECT birthtime, TIME_FORMAT(birthtime, 'Born On -> %H:%i:%s') FROM people;
